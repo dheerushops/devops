@@ -1,2 +1,2 @@
 # devops
-github repository fro devops
+github repository for devops
